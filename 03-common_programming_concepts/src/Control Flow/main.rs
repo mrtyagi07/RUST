@@ -10,6 +10,13 @@ fn main() {
   }
 }
 
+
+
+
+
+
+
+
 // It’s also worth noting that the condition in this code must be a bool. 
 // If the condition isn’t a bool, we’ll get an error. For example, try running the following code
 
